@@ -1,0 +1,9 @@
+Type	Rooms	Name	ID	Tel	Mail	Days	Checkin
+
+
+
+
+A	1	ftdfc	iuytrfgb	à	tyfgvb	-456228942	ytfgvb
+A	1	2	3	à	3	1	2
+A	1	f	d	à	d	3	f
+A	2	ggf	555	à	ui	4	ioi

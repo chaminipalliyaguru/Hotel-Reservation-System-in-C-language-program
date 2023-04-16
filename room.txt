@@ -1,0 +1,9 @@
+001	No	A
+001	No	A
+001	No	A
+001	No	A
+001	No	A
+001	No	A
+001	Yes	A
+002	No	A
+003	No	B
